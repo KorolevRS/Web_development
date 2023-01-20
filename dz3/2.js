@@ -1,4 +1,3 @@
-
 const userX = prompt("Как Вас зовут?");
 greeting(userX);
 
