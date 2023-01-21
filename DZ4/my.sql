@@ -17,4 +17,4 @@ INSERT INTO student VALUES (7, 'Vika', 23, 'Moskva');
 
 -- fetch 
 /*SELECT name FROM student;*/
-SELECT name FROM student WHERE address="Moskva" and age>=18 and age<30;
+SELECT name FROM student WHERE address="Moskva" AND age>=18 AND age<30;
